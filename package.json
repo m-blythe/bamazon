@@ -4,6 +4,9 @@
   "description": "## Description",
   "main": "bamazonCustomer.js",
   "dependencies": {
+    "as-table": "^1.0.33",
+    "cli-table": "^0.3.1",
+    "easy-table": "^1.1.1",
     "inquirer": "^5.2.0",
     "mysql": "^2.15.0"
   },
