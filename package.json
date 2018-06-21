@@ -9,20 +9,3 @@
     "easy-table": "^1.1.1",
     "inquirer": "^5.2.0",
     "mysql": "^2.15.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/angrbrd/bamazon.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/angrbrd/bamazon/issues"
-  },
-  "homepage": "https://github.com/angrbrd/bamazon#readme"
-}
